@@ -14,5 +14,8 @@
 	<c:out value="${i }"></c:out>
 	</c:forEach>
 	${fn:length("oscar")}
+	
+	
+	hola mundo como estan
 </body>
 </html>
